@@ -1,0 +1,7 @@
+{
+  "appId": "in.missionkerala.app",
+  "appName": "Mission Kerala",
+  "webDir": "www",
+  "backgroundColor": "#EDF3F9",
+  "server": { "androidScheme": "https" }
+}

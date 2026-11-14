@@ -1,0 +1,16 @@
+{
+  "name": "mission-kerala",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mission Kerala prototype app",
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/app": "^6.0.2",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/status-bar": "^6.0.1"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5"
+  }
+}
